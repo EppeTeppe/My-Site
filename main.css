@@ -8,6 +8,7 @@ body {
     background-image: linear-gradient(to bottom, darkblue, darkslateblue, darkblue);
     background-repeat: no-repeat;
     background-size: cover;
+    height: 600vh;
 }
 
 header {
