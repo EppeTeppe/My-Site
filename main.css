@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Bauhaus93';
+    src: url('./BAUHS93.TTF') format('truetype');
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+header {
+    font-size: 3rem;
+    color: darkorange;
+    font-family: 'Bauhaus93';
+}
