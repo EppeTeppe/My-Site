@@ -5,7 +5,9 @@
 
 body {
     background-color: darkslateblue;
-    background-image: linear-gradient(to bottom, darkblue, darkslateblue, darkblue); 
+    background-image: linear-gradient(to bottom, darkblue, darkslateblue, darkblue);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 header {
